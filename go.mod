@@ -1,3 +1,3 @@
-module github.com/punkystone/twitch-token-manager/v1
+module github.com/punkystone/twitch-token-manager
 
 go 1.24.3
